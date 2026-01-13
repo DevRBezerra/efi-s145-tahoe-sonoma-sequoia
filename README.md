@@ -4,10 +4,10 @@
 
 ## Configuração do Sistema
 
-Processador: i5 1035g1
-Memoria ram: 20 gb ddr4
-ssd m2: a data 256gb
-Wi-Fi / Bluetooth: bcm94352z
+- **Processador:** i5 1035g1
+- **Memoria ram:** 20 gb ddr4
+- **ssd m2:** a data 256gb
+- **Wi-Fi / Bluetooth:** bcm94352z
 ---
 
 💻 Repositório mantido por [@DevRBezerra](https://github.com/DevRBezerra)
